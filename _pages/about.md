@@ -16,7 +16,7 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
----
+
 
 Data scientist at Morgan Stanley, specializing in advanced machine learning techniques for complex business problem-solving. Master's degree in Data Science from Johns Hopkins University.
 
