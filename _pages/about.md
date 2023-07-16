@@ -11,7 +11,7 @@ profile:
   address: 
     <p>25 River Drive South</p>
     <p>Jersey City, NJ 07310</p>
-    <p>zhengzhou -> kuala lumpur -> nyc.</p>
+    <p>&#127747;&#127747;&#127759;&#128640;</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
