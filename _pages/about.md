@@ -26,5 +26,5 @@ Data Scientist at Morgan Stanley, specializing in advanced machine learning tech
 <p>&#9786; Committed to continuous learning and staying up-to-date with the latest advancements in data science such as Large Language Models (LLMs).</p> 
 <br>
 <br>
-<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I find it exhilarating to parse through the data tangle and endow it with value, and I am eager to uncover the hidden insights that lie beneath the surface of raw data troves generated every single day.<i>
+<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I find it exhilarating to parse through the data tangle and endow it with value, and I am eager to uncover the hidden insights that lie beneath the surface of raw data troves generated every single day.<i>
 
