@@ -11,7 +11,7 @@ profile:
   address: 
     <p>25 River Drive South</p>
     <p>Jersey City, NJ 07310</p>
-    <p>&#127747; zz->kl->bal->nyc &#127759;</p>
+    <p>&#127759; zz->kl->bal->nyc &#127747;</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -26,5 +26,5 @@ Data Scientist at Morgan Stanley, specializing in advanced machine learning tech
 <p>&#9786; Committed to continuous learning and staying up-to-date with the latest advancements in data science such as Large Language Models (LLMs).</p> 
 <br>
 <br>
-<i>I find it exhilarating to parse through the data tangle and endow it with value, and I am eager to uncover the hidden insights that lie beneath the surface of raw data troves generated every single day.<i>
+<i>         I find it exhilarating to parse through the data tangle and endow it with value, and I am eager to uncover the hidden insights that lie beneath the surface of raw data troves generated every single day.<i>
 
