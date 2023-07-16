@@ -1,6 +1,5 @@
-github_users:
- #  - FredZCY
-
+# github_users:
+#   - FredZCY
 github_repos:
   - FredZCY/MIT-NLP-Chatbot-for-Stock-Information-Queries
   - FredZCY/Ham-Volume-Prediction
