@@ -6,7 +6,7 @@ subtitle: Analyst @ <a href="https://www.morganstanley.com/">Morgan Stanley</a> 
 
 profile:
   align: right
-  image: self.jpg
+  image: my_self.jpg
   image_circular: false # crops the image to make it circular
   address: 
     <p>25 River Drive South</p>
