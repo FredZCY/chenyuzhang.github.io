@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Analyst @ Morgan Stanley | Johns Hopkins Alumni
+subtitle: Analyst @ <a href="https://www.morganstanley.com/">Morgan Stanley</a> | <a href="https://www.jhu.edu/">Johns Hopkins</a> Alumni
 
 profile:
   align: right
   image: self.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>25 River Dr S</p>
     <p>Jersey City, NJ 07310</p>
