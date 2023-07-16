@@ -23,6 +23,7 @@ Data scientist at Morgan Stanley, specializing in advanced machine learning tech
 <p>&#9786; Collaborative team player experienced in leveraging cutting-edge ML technologies for strategic initiatives.</p>
 <p>&#9786; Effective communicator, translating technical concepts for non-technical stakeholders to ensure seamless comprehension and collaboration.</p>
 <p>&#9786; Committed to continuous learning and staying up-to-date with the latest advancements in data science such as LLMs.</p> 
-
+<br>
+<br>
 <i>"I find it exhilarating to parse through the data tangle and endow it with value, and I am eager to uncover the hidden insights that lie beneath the surface of raw data troves generated every single day."<i>
 
