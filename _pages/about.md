@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data scientist at Morgan Stanley, specializing in advanced machine learning techniques for complex business problem-solving. Master's degree in Data Science from Johns Hopkins University.
+subtitle: <a href='#'>Analyst @ Morgan Stanley | Data Science graduate @ Johns Hopkins University</a>.
 
 profile:
   align: right
