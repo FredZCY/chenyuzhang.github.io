@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data scientist at Morgan Stanley, specializing in advanced machine learning techniques for complex business problem-solving. Master's degree in Data Science from Johns Hopkins University.
 
 profile:
   align: right
