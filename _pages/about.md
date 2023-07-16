@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Data Scientist at Morgan Stanley, specializing in advanced machine learning techniques for complex business problem-solving. Master's degree in Data Science from Johns Hopkins University.
 <br>
-<p>&#9786; Collaborative team player experienced in leveraging cutting-edge ML technologies for strategic initiatives.</p>
+<p>&#9786; Collaborative team player experienced in leveraging cutting-edge AI/ML technologies for strategic initiatives.</p>
 <p>&#9786; Effective communicator, translating technical concepts for non-technical stakeholders to ensure seamless comprehension and collaboration.</p>
 <p>&#9786; Committed to continuous learning and staying up-to-date with the latest advancements in data science such as Large Language Models (LLMs).</p> 
 <br>
