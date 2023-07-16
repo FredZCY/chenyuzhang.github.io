@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: # /repositories/
+permalink: /repositories/
 title: repositories
-description: 
+description: just a few projects I did at school.
 nav: true
 nav_order: 3
 ---
