@@ -1,15 +1,12 @@
 {
   "basics": {
     "name": "Chenyu Zhang",
-    "label": "Data Scientist",
+    "position": "Data Scientist",
+    "location": "New York, NY, US",
     "image": [],
     "email": "zhangchenyu555@gmail.com",
-    "phone": "(667) 213-8216",
-    "location": {
-      "city": "New York",
-      "countryCode": "US",
-      "region": "NY"
-    }
+    "phone": "(667) 213-8216"
+
   },
   "education": [
     {
@@ -18,7 +15,7 @@
       "studyType": "M.S.E. in Data Science",
       "startDate": "2021-08",
       "endDate": "2022-12",
-      "score": "",
+      "score": "GPA: 3.73/4.0",
       "courses": [
         "Introduction to Data Science", 
         "Parallel Computing for Data Science", 
