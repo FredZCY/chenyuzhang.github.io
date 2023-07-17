@@ -10,8 +10,7 @@
     {
       "institution": "Johns Hopkins University, Baltimore, MD",
       "url": "https://www.jhu.edu/",
-      "area": "Data Science",
-      "studyType": "Master",
+      "studyType": "M.S.E. in Data Science",
       "startDate": "2021-08",
       "endDate": "2022-12",
       "score": "",
@@ -30,8 +29,7 @@
       {
         "institution": "Xiamen University, Sepang, Malaysia",
         "url": "https://www.xmu.edu.my/",
-        "area": "Computer Science and Technology",
-        "studyType": "Bachelor (Honors)",
+        "studyType": "B.E. in Computer Science and Technology (Honors)",
         "startDate": "2017-09",
         "endDate": "2021-08",
         "score": "",
@@ -50,7 +48,7 @@
     },
     {
       "name": "Morgan Stanley",
-      "position": "Data Scientist Summer Intern",
+      "position": "Data Scientist Summer Analyst",
       "url": "https://www.morganstanley.com/",
       "startDate": "2022-06",
       "endDate": "2022-08"
@@ -59,10 +57,10 @@
   "volunteer": [],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "University Distinction Award (three times)",
+      "date": "2017 - 2020",
+      "awarder": "Xiamen University",
+      "summary": "Ranked 1st in department"
     }
   ],
   "certificates": [],
@@ -81,6 +79,10 @@
     {
       "language": "Mandarin",
       "fluency": "Native"
+    },
+    {
+      "language": "Malay",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [],
