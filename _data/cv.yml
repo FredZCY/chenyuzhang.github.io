@@ -15,12 +15,17 @@
       institution: Johns Hopkins University, Baltimore, MD
       year: Dec 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Course: 
+        "Introduction to Data Science", 
+        "Parallel Computing for Data Science", 
+        "Databases, Machine Learning", 
+        "Artificial Intelligence", "Machine Learning: Deep Learning", 
+        "Cloud Computing", "Intro Algorithms", 
+        "Introduction to Optimization", "Introduction to Statistics", 
+        "Computing for Applied Mathematics", 
+        "Introduction to Financial Derivatives", 
+        "Risk Measurement/Management in Financial Market"
+
     - title: B.E. in Computer Science and Technology (Honors)
       institution: Xiamen University
       year: Aug 2021
@@ -61,12 +66,12 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -79,19 +84,19 @@
       items: 
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
