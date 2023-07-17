@@ -1,11 +1,16 @@
 {
-  "basics": [{
+  "basics": {
     "name": "Chenyu Zhang",
     "label": "Data Scientist",
     "image": [],
     "email": "zhangchenyu555@gmail.com",
-    "phone": "(667) 213-8216"
-  }],
+    "phone": "(667) 213-8216",
+    "location": {
+      "city": "New York",
+      "countryCode": "US",
+      "region": "NY"
+    }
+  },
   "education": [
     {
       "institution": "Johns Hopkins University, Baltimore, MD",
@@ -65,11 +70,11 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "items": "Python, R, SQL, C/C++, HTML, MATLAB"
+      "keywords": "Python, R, SQL, C/C++, HTML, MATLAB"
     },
     {
       "name": "Frameworks & Tools",
-      "items": "NumPy, Pandas, Matplotlib, Sklearn, Flask, Tensorflow, Keras, PyTorch, Anaconda, CUDA, MySQL, SQLite, MongoDB, Spark, Hadoop, Tableau, Linux, GCP, AWS, RESTful API"
+      "keywords": "NumPy, Pandas, Matplotlib, Sklearn, Flask, Tensorflow, Keras, PyTorch, Anaconda, CUDA, MySQL, SQLite, MongoDB, Spark, Hadoop, Tableau, Linux, GCP, AWS, RESTful API"
     }
   ],
   "languages": [
