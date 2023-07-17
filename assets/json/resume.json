@@ -2,7 +2,7 @@
   "basics": [{
     "name": "Chenyu Zhang",
     "label": "Data Scientist",
-    "image": "",
+    "image": [],
     "email": "zhangchenyu555@gmail.com",
     "phone": "(667) 213-8216"
   }],
@@ -32,10 +32,7 @@
         "studyType": "B.E. in Computer Science and Technology (Honors)",
         "startDate": "2017-09",
         "endDate": "2021-08",
-        "score": "",
-        "courses": [
-          "Theory of Relativity"
-        ]
+        "score": "GPA: 3.89/4.0 Rank: 1/61"
       }
   ],
   "work": [
@@ -67,8 +64,12 @@
   "publications": [],
   "skills": [
     {
-      "Programming Languages": "Python, R, SQL, C/C++, HTML, MATLAB",
-      "Frameworks & Tools": "NumPy, Pandas, Matplotlib, Sklearn, Flask, Tensorflow, Keras, PyTorch, Anaconda, CUDA, MySQL, SQLite, MongoDB, Spark, Hadoop, Tableau, Linux, GCP, AWS, RESTful API"
+      "name": "Programming Languages",
+      "items": "Python, R, SQL, C/C++, HTML, MATLAB"
+    },
+    {
+      "name": "Frameworks & Tools",
+      "items": "NumPy, Pandas, Matplotlib, Sklearn, Flask, Tensorflow, Keras, PyTorch, Anaconda, CUDA, MySQL, SQLite, MongoDB, Spark, Hadoop, Tableau, Linux, GCP, AWS, RESTful API"
     }
   ],
   "languages": [
@@ -79,10 +80,6 @@
     {
       "language": "Mandarin",
       "fluency": "Native"
-    },
-    {
-      "language": "Malay",
-      "fluency": "Intermediate"
     }
   ],
   "interests": [],
