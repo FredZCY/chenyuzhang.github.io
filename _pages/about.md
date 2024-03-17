@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Analyst @ <a href="https://www.morganstanley.com/">Morgan Stanley</a> | <a href="https://www.jhu.edu/">Johns Hopkins</a> Alumni
+subtitle: Data Scientist @ <a href="https://www.morganstanley.com/">Morgan Stanley</a> | <a href="https://www.jhu.edu/">Johns Hopkins</a> Alumni
 
 profile:
   align: right
@@ -23,7 +23,7 @@ Data Scientist at Morgan Stanley, specializing in advanced machine learning tech
 <br>
 <p>&#9786; Collaborative team player experienced in leveraging cutting-edge AI/ML technologies for strategic initiatives.</p>
 <p>&#9786; Effective communicator, translating technical concepts for non-technical stakeholders to ensure seamless comprehension and collaboration.</p>
-<p>&#9786; Committed to continuous learning and staying up-to-date with the latest advancements in data science such as Large Language Models (LLMs).</p> 
+<p>&#9786; Committed to continuous learning and staying up-to-date with the latest advancements in data science especially Large Language Models (LLMs).</p> 
 <br>
 <br>
 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I find it exhilarating to parse through the data tangle and endow it with value, and I am eager to uncover the hidden insights that lie beneath the surface of raw data troves generated every single day.<i>
